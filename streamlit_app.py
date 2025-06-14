@@ -55,7 +55,7 @@ if not gemini_api_key or not FIXED_ACCESS_TOKEN:
 genai.configure(api_key=gemini_api_key)
 
 # --- App Title and Description ---
-st.title("🚀 LinkedIn Post Publisher with AI")
+st.title(" LinkedIn Post Publisher with AI")
 st.write(
     "This app uses Gemini AI to generate professional LinkedIn posts based on your inputs, "
     "then publishes them to your LinkedIn profile with optional images/videos."
