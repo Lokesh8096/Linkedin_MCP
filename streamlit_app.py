@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.DEBUG)
 # --- App Configuration ---
 st.set_page_config(
     page_title="LinkedIn Post Publisher with AI",
-    page_icon="🚀",
+    page_icon="",
     layout="wide"
 )
 
